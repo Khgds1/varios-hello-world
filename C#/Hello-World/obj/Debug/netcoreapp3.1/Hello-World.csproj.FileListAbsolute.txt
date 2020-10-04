@@ -1,0 +1,13 @@
+E:\Developer\Projetos\hello-world-varios\C#\Hello-World\bin\Debug\netcoreapp3.1\Hello-World.exe
+E:\Developer\Projetos\hello-world-varios\C#\Hello-World\bin\Debug\netcoreapp3.1\Hello-World.deps.json
+E:\Developer\Projetos\hello-world-varios\C#\Hello-World\bin\Debug\netcoreapp3.1\Hello-World.runtimeconfig.json
+E:\Developer\Projetos\hello-world-varios\C#\Hello-World\bin\Debug\netcoreapp3.1\Hello-World.runtimeconfig.dev.json
+E:\Developer\Projetos\hello-world-varios\C#\Hello-World\bin\Debug\netcoreapp3.1\Hello-World.dll
+E:\Developer\Projetos\hello-world-varios\C#\Hello-World\bin\Debug\netcoreapp3.1\Hello-World.pdb
+E:\Developer\Projetos\hello-world-varios\C#\Hello-World\obj\Debug\netcoreapp3.1\Hello-World.csprojAssemblyReference.cache
+E:\Developer\Projetos\hello-world-varios\C#\Hello-World\obj\Debug\netcoreapp3.1\Hello-World.AssemblyInfoInputs.cache
+E:\Developer\Projetos\hello-world-varios\C#\Hello-World\obj\Debug\netcoreapp3.1\Hello-World.AssemblyInfo.cs
+E:\Developer\Projetos\hello-world-varios\C#\Hello-World\obj\Debug\netcoreapp3.1\Hello-World.csproj.CoreCompileInputs.cache
+E:\Developer\Projetos\hello-world-varios\C#\Hello-World\obj\Debug\netcoreapp3.1\Hello-World.dll
+E:\Developer\Projetos\hello-world-varios\C#\Hello-World\obj\Debug\netcoreapp3.1\Hello-World.pdb
+E:\Developer\Projetos\hello-world-varios\C#\Hello-World\obj\Debug\netcoreapp3.1\Hello-World.genruntimeconfig.cache
